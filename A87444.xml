@@ -1,0 +1,362 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A just and cleere refutation of a false and scandalous pamphlet, entituled, Babylons fall in Maryland, &amp;c. and, a true discovery of certaine strange and inhumane proceedings of some ungratefull people in Maryland, towards those who formerly preserved them in time of their greatest distresse. To which is added a law in Maryland concerning religion, and a declaration concerning the same. / By John Langford Gentleman, Servant to the Lord Baltemore.</title>
+            <author>Langford, John, Gentleman, servant to Lord Baltimore.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87444</idno>
+            <idno type="STC">Wing J1220</idno>
+            <idno type="STC">Wing L387</idno>
+            <idno type="STC">Thomason E853_25</idno>
+            <idno type="STC">ESTC R16909</idno>
+            <idno type="EEBO-CITATION">99860112</idno>
+            <idno type="PROQUEST">99860112</idno>
+            <idno type="VID">168315</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87444)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168315)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 129:E853[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A just and cleere refutation of a false and scandalous pamphlet, entituled, Babylons fall in Maryland, &amp;c. and, a true discovery of certaine strange and inhumane proceedings of some ungratefull people in Maryland, towards those who formerly preserved them in time of their greatest distresse. To which is added a law in Maryland concerning religion, and a declaration concerning the same. / By John Langford Gentleman, Servant to the Lord Baltemore.</title>
+                  <author>Langford, John, Gentleman, servant to Lord Baltimore.</author>
+               </titleStmt>
+               <extent>35, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Strong, Leonard.  Babylons fall in Maryland.</note>
+                  <note>Annotation on Thomason copy: "Sept: 24".</note>
+                  <note>Both Wing J1220 and L387.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Strong, Leonard, --  Agent for the people of Providence in Maryland. --  Babylons fall in Maryland.</term>
+               <term>Maryland --  History --  Colonial period, ca. 1600-1775 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168315:1" rendition="simple:additions"/>
+            <p>A juſt and cleere REFUTATION of a falſe and ſcandalous Pamphlet, Entituled, <hi>Babylons fall in Maryland, &amp;c.</hi>
+            </p>
+            <p>AND, A true Diſcovery of certaine ſtrange and inhumane proceedings of ſome ungratefull people in <hi>Ma<g ref="char:EOLhyphen"/>ryland,</hi> towards thoſe who formerly preſerved them in time of their greateſt diſtreſſe.</p>
+            <p>To which is added a Law in <hi>Maryland</hi> concerning Religi<g ref="char:EOLhyphen"/>on, and a Declaration concerning the ſame.</p>
+            <p>By <hi>John Langford</hi> Gentleman, Servant to the Lord <hi>BALTEMORE.</hi>
+            </p>
+            <q>
+               <p>Hee that is firſt in his owne cauſe ſeemeth juſt, but his neighbour commeth and ſearcheth him.</p>
+               <bibl>Prov. 18.17.</bibl>
+            </q>
+            <q>
+               <p>Whoſe hatred is covered by deceit, his wickedneſſe ſhall be ſhewed be<g ref="char:EOLhyphen"/>fore the whole Congregation.</p>
+               <bibl>Prov. 26, 26.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for the Author. 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168315:2"/>
+            <pb n="3" facs="tcp:168315:2"/>
+            <head>A juſt and cleere refutation of a falſe and ſcandalous Pamphlet, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving lately met with a Pamphlet, en<g ref="char:EOLhyphen"/>tituled, <hi>Babylons Fall in Maryland,</hi> &amp;c. which layes many falſe and ſcandalous aſperſions upon the Lord <hi>Baltemore,</hi> his Government, and Officers in <hi>Mary<g ref="char:EOLhyphen"/>land,</hi> put forth by one <hi>Leonard Strong</hi> and atteſted by <hi>William Durand,</hi> pre<g ref="char:EOLhyphen"/>tending to be Secretary of that Pro<g ref="char:EOLhyphen"/>vince, It was thought fit in regard I have beene acquainted with, and imployed by my Lord <hi>Baltemore</hi> in his affairs re<g ref="char:EOLhyphen"/>lating to that Province, both heere and there, for above twenty years laſt paſt, That I ſhould publiſh this brief Re<g ref="char:EOLhyphen"/>futation therof, to undeceive ſuch as may be deluded by it.</p>
+            <p>Captaine <hi>Stone</hi> (who is well known to be a zealous and well affected Proteſtant) being Governour of <hi>Maryland</hi> un<g ref="char:EOLhyphen"/>der the Lord <hi>Baltemore,</hi> did receive and protect in <hi>Mary<g ref="char:EOLhyphen"/>land</hi> thoſe people and their families mentioned by Mr. <hi>Strong</hi> when they were diſtreſſed in <hi>Virginia,</hi> under Sir <hi>William Berkley,</hi> among whom it is to be noted that Mr. <hi>Richard Bennet</hi> (afterwards Governour of <hi>Virginia</hi>) was one, and thereupon a Commiſſion was granted by <hi>Charles Stuart</hi> the eldeſt Son of the late King to Sir <hi>William Davenant,</hi> conſti<g ref="char:EOLhyphen"/>tuting
+<pb n="4" facs="tcp:168315:3"/>
+him Governor of the ſaid Province, alleadging ther<g ref="char:EOLhyphen"/>in the reaſons to be, becauſe the Lord <hi>Baltemore</hi> did viſibly adhere to the Rebels in <hi>England</hi> (as he terms them in that Commiſſion) and admitted all kind of Sectaries and Schiſ<g ref="char:EOLhyphen"/>maticks, and ill affected perſons into that Plantation.</p>
+            <p>Theſe people ſeated themſelves at a place by them called <hi>Providence,</hi> but by an Act of a Generall Aſſembly there cal<g ref="char:EOLhyphen"/>led <hi>Anne-Arundell</hi> in <hi>Mariland,</hi> and there was nothing promiſed by my Lord or Capt. <hi>Stone</hi> to them, but what was performed, they were firſt acquainted by Capt. <hi>Stone,</hi> before they came there, with that Oath of Fidelity which was to be taken by thoſe who would have any Land there from his Lordſhip, and the Oath which was required of them to take before they could have any Parent for Land there, was ratified by an Act of a Generall Aſſembly of that Province, wherin thoſe very men had their Burgeſſes, there being an expreſſe Clauſe in it, That it ſhould not bee un<g ref="char:EOLhyphen"/>derſtood to infringe or prejudice Liberty of Conſcience in point of Religion, as will appear by the Oath it ſelfe, nor had they any regrett to the Oath till they were as much refreſhed with their intertainment there, as the Snake in the Fable was with the Country mans breaſt, for which ſome of them are equally thankfull</p>
+            <p>But it is now, it ſeems, thought by ſome of thoſe people too much below them to take an Oath to the Lord Propri<g ref="char:EOLhyphen"/>etary of that Province, though many Proteſtants of much better quality, have taken it, and which is more then can be hoped for from ſome of theſe men) kept it.</p>
+            <p>As to the Government there, they knew it very well be<g ref="char:EOLhyphen"/>fore they came thither, and if they had not liked it they might have forborne comming or ſtaying there, for they
+<pb n="5" facs="tcp:168315:3"/>
+were never forced to either, the chiefe Officers under my Lord there are Proteſtants, the Juriſdiction exerciſed there by them is no other then what is warranted by his Lord<g ref="char:EOLhyphen"/>ſhips Patent of that Province, which gives him the power and priviledges of a Count Palatine there, depending on the Supream Authority of <hi>England,</hi> with power to make Lawes with the Peoples conſent, and of Martiall Law in caſes of Mutiny, Rebellion, or Sedition, without which powers and priviledges his Lordſhip would not have undertaken that Plantation, and have beene at ſo great a charge, and run ſo many hazards as he hath done for it.</p>
+            <p>There are none there ſworn to uphold Antichriſt, as Mr. <hi>Strong</hi> falſly ſuggeſts, nor doeth the Oath of Fidelity bind any man to maintain any other Juriſdiction or Domi<g ref="char:EOLhyphen"/>nion of my Lords, than what is granted by his Patent; for by expreſſe words it relates to ſuch only as are therein con<g ref="char:EOLhyphen"/>tained, whatſoever Mr. <hi>Strong</hi> ſayes to the contrary.</p>
+            <p>Though ſome of thoſe people (it ſeemes) thinke it unfit that my Lord ſhould have ſuch a juriſdiction and domini<g ref="char:EOLhyphen"/>on there, (unto which he hath as good a right as Mr. <hi>Strong</hi> or any of thoſe people can claime to any thing they have) yet they it ſeemes by their arrogant and inſolent procee<g ref="char:EOLhyphen"/>dings thinke it fit for them to exerciſe farre more abſolute Juriſdictions and Dominion there then my Lord ever did, ſuch as in truth are Arbitrary and Barbarous without any lawfull right or Authority at all, nor are they contented with freedome for themſelves of Conſcience, Perſon and E<g ref="char:EOLhyphen"/>ſtate, (all which are eſtabliſht to them by Law there and injoyed by them in as ample manner as ever any people did in any place of the world) unleſſe they may have the liberty to debarr others from the like freedome, and that
+<pb n="6" facs="tcp:168315:4"/>
+they may domineere and doe what they pleaſe.</p>
+            <p>As to the pretended Commiſſion mentioned by Mr. <hi>Strong</hi> from the ſupreame Authority of England in 1652. for reducing of <hi>Maryland,</hi> there was no ſuch thing; but the ground of that pretence was this. In September 1651. when the Councell of State ſent Commiſſioners from hence, that is to ſay Capt. <hi>Dennis,</hi> Capt. <hi>Steg,</hi> and Capt. <hi>Curtes,</hi> to reduce <hi>Virginia</hi> to the obedience of the Parlia<g ref="char:EOLhyphen"/>ment, the ſaid Councell appointed a Committee of them<g ref="char:EOLhyphen"/>ſelves for the carrying on of the affaires of the Admirall<g ref="char:EOLhyphen"/>ty, to give inſtructions to the ſaid Commiſſioners for that buſineſs, and Colonell <hi>George Thomſon</hi> being then in the Chaire of that Committee, <hi>Maryland</hi> was at firſt inſerted in their inſtructions to bee reduced as well as <hi>Virginia,</hi> but the Committee being afterwards ſatisfied by all the Mer<g ref="char:EOLhyphen"/>chants that traded thither (who were engaged to aſſiſt with their ſhips in the reducement of <hi>Virginia</hi>) that <hi>Maryland</hi> was not in oppoſition to the Parliament; that Captaine <hi>Stone</hi> the Lord <hi>Baltemores</hi> Leivtenant there, was generally knowne to have beene alwayes zealouſly affected to the Parliament, and that divers of the Parliaments friends were by the Lord <hi>Baltemores</hi> eſpeciall directions received in<g ref="char:EOLhyphen"/>to <hi>Maryland,</hi> and well treated there, when they were faine to leave <hi>Virginia</hi> for their good affections to the Parlia<g ref="char:EOLhyphen"/>ment; then the ſaid Committee thought it not fit at all to diſturbe that Plantation, and therfore in the preſence of ma<g ref="char:EOLhyphen"/>ny of the ſaid Merchants, cauſed <hi>Maryland</hi> to bee ſtruck out of the ſaid inſtructions, and the Councell of State did ther<g ref="char:EOLhyphen"/>upon give Licence to many Ships to trade at that time to <hi>Maryland,</hi> but would not permit any to goe to <hi>Virginia,</hi> till that Colony were reduced to obedience; all which will bee
+<pb n="7" facs="tcp:168315:4"/>
+teſtified by divers Merchants and others to be true.</p>
+            <p>In this expedition to <hi>Virginia</hi> Captaine <hi>Dennis</hi> and Cap<g ref="char:EOLhyphen"/>taine <hi>Steg</hi> the two chiefe Commiſſioners (who were pre<g ref="char:EOLhyphen"/>ſent when <hi>Maryland</hi> was ſtruck out of the ſaid Inſtructions) were caſt away outward bound, in the Admirall of that Fleet which was ſent from hence upon that ſervice, and with them the Originall Commiſſion for that ſervice was loſt.</p>
+            <p>But Capt. <hi>Curtes</hi> having a Coppy of the ſaid Commiſſi<g ref="char:EOLhyphen"/>on and Inſtructions with him in another ſhip, arrived ſafe in <hi>Virginia,</hi> and there being alſo nominated in the ſayd Commiſſion two other perſons reſident in <hi>Virginia,</hi> that is, Mr. <hi>Richard Bennet</hi> before mentioned, and Capt. <hi>Cleyborne</hi> (known and declared Enemies of the Lord <hi>Baltemores</hi>) they together with Capt. <hi>Curtes</hi> proceeded to the reducement of <hi>Virginia,</hi> which was effected accordingly; and Captaine <hi>Stone</hi> being then the Lord <hi>Baltemores</hi> Lievtenant of <hi>Mary<g ref="char:EOLhyphen"/>land,</hi> did actually aſſiſt them therein. After all which, the ſayd Mr. <hi>Bennet</hi> and Capt. <hi>Cleyborne</hi> went notwithſtanding to <hi>Maryland,</hi> and upon pretence of a certaine Clauſe in their Inſtructions, That they ſhould reduce all the Plantations in the Bay of <hi>Cheſeapeacke,</hi> to the obedience of the Parliament, becauſe ſome part of <hi>Maryland,</hi> where the Lord <hi>Baltemores</hi> chiefe Colony there is ſeated, is within that Bay, aſwell as all the Plantations of <hi>Virginia</hi> are, they required Capt. <hi>Stone</hi> and the reſt of the Lord <hi>Baltemores</hi> Officers there, firſt to take the Engagement, which they all readily ſubſcribed, and declared, that they did in all humility ſubmit them<g ref="char:EOLhyphen"/>ſelves to the Government of the Common wealth of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> in chiefe under God: then the ſaid Commiſſioners required them to iſſue out Writs and Proceſſe out of the
+<pb n="8" facs="tcp:168315:5"/>
+Lord <hi>Baltemores</hi> Courts there, in the name of the Keepers of the Liberty of <hi>England,</hi> and not in the name of the Lord Proprietary as they were wont to doe; wherein they deſi<g ref="char:EOLhyphen"/>red to bee excuſed, becauſe they did conceive the Parlia<g ref="char:EOLhyphen"/>ment intended not to deveſt the Lord <hi>Baltemore</hi> of his right there; and that they underſtood out of England that the Councell of State intended not that any alteration ſhould bee made in <hi>Maryland,</hi> that the Kings name was never uſed heertofore in the ſaid Writs, but that they had alwayes beene in the name of the Lord Proprietary according to the Priviledges of his Patent, ever ſince the beginning of that Plantation. That the Act in England for changing of the formes of Writs declared onely, that in ſuch Writs and Proceſſe wherein the Kings name was formerly uſed, the Keepers of the Liberty of England ſhould for the fu<g ref="char:EOLhyphen"/>ture bee put in ſtead thereof. That the continuing of the Writs in the Lord Proprietaries name was eſſentiall to his intereſt there, and therefore they could not without breach of truſt concur to any ſuch alteration: where upon the ſaid Commiſſioners demanded of Captaine <hi>Stone</hi> the Lord <hi>Baltemores</hi> Commiſſion to him, which hee ſhewed them, and then without any other cauſe at all they detained it and remooved him, and his Lordſhips other Officers out of their employment there under him, and ap<g ref="char:EOLhyphen"/>pointed others to mannage the Government of that Plan<g ref="char:EOLhyphen"/>tation independent of his Lordſhip.</p>
+            <p>By which it appears Mr. <hi>Bennet</hi> and Capt. <hi>Cleyborne</hi> took upon them an Authority much contrary to the intention of the Councell of State, and indeed contrary to common ſenſe and reaſon; for certainly if the Councell had had any cauſe to have altered their mind in that particular of <hi>Ma<g ref="char:EOLhyphen"/>ryland,</hi>
+               <pb n="9" facs="tcp:168315:5"/>
+after they had ſtrucke it out of the ſayd Inſtructi<g ref="char:EOLhyphen"/>ons, they would have cauſed it to have been put in againe by the ſame name, whereby their Intention might have beene cleerely underſtood; much leſſe could they have a<g ref="char:EOLhyphen"/>ny Intention of reducing any place that was not in oppoſi<g ref="char:EOLhyphen"/>tion againſt them, but in due obedience; ſo as if <hi>Maryland</hi> had been by any miſtake put in by name to be reduced, up<g ref="char:EOLhyphen"/>on a ſuppoſition in the Councell that it had been in oppoſi<g ref="char:EOLhyphen"/>tion, yet they could not in reaſon intend that in caſe their Commiſſioners had found when they came upon the place (as they did) that it was not in oppoſition, that they ſhould reduce it or prejudice any mans right upon that accompt: ſo that whatſoever was done in <hi>Maryland</hi> by the ſayd Mr. <hi>Bennet,</hi> then Governour of <hi>Virginia,</hi> and the other perſons Mr. <hi>Strong</hi> mentioneth as Commiſſioners from <hi>England,</hi> for reducing of <hi>Maryland,</hi> or their ſubordinate Officers, having no firmer foundation from hence, was done without Au<g ref="char:EOLhyphen"/>thority, which makes all thoſe proceedings mentioned by Mr. <hi>Strong</hi> of his friends and their pretended aſſembly there, illegall, mutinous, and uſurp'd, and the Lord <hi>Baltemore</hi> and his Officers had juſt reaſon to rectifie the ſame by all law<g ref="char:EOLhyphen"/>full means, other then which they uſed none, when they reaſſumed the Government; for by his Lordſhips Patent he and his ſubſtitutes have power to make uſe of what force they can, to compell ſuch as ſhall unlawfully oppoſe his Government there, and by a Law made with the con<g ref="char:EOLhyphen"/>ſent of a generall Aſſembly of that Province, wherein the ſayd people above mentioned had alſo their Burgeſſes, it was enacted that ſuch as ſhould by force of Armes oppoſe the Government there under the Lord Proprietary, or at<g ref="char:EOLhyphen"/>tempt the diſinheriſon or diſpoſſeſſing him (as thoſe peo<g ref="char:EOLhyphen"/>ple
+<pb n="10" facs="tcp:168315:6"/>
+did before Capt. <hi>Stone</hi> attempted any force upon them) of his rights or Juriſdiction there, according to his Patent, ſhould be puniſhed with Death and confiſcation of their E<g ref="char:EOLhyphen"/>ſtates, as is uſuall and neceſſary in the like caſes to be done in all ſuch Governments whatſoever; though no ſuch ſe<g ref="char:EOLhyphen"/>verity is ever put in execution there, but when all fair and gentle means, being firſt tried to reduce ſuch people to o<g ref="char:EOLhyphen"/>bedience will not prevail.</p>
+            <p>Moreover that pretended authority of the ſaid Commiſ<g ref="char:EOLhyphen"/>ſioners for reducing of <hi>Maryland,</hi> was urged heere in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> by Colonell <hi>Matthews,</hi> Agent for the ſayd Mr <hi>Bennet,</hi> and the Colonie of <hi>Virginia,</hi> when his Petition was debated before the Committee of Petitions of the late Parliament which began in <hi>July</hi> 1653. and was by that Committee diſmiſſed, and yet notwithſtanding after the ſayd diſmiſſi<g ref="char:EOLhyphen"/>on and Diſſolution of that Parliament, the ſayd Mr. <hi>Bennet</hi> and Capt. <hi>Cleyborne</hi> did again in <hi>July</hi> 1654. come into <hi>Mary<g ref="char:EOLhyphen"/>land,</hi> and with the aſſiſtance of ſome of the people above mentioned, by force of Armes turned out Capt. <hi>Stone,</hi> and the Lord <hi>Baltemores</hi> other Officers, and put others in their roomes by what Authority no man knowes; for although they had had as they pretended an Authority (which in truth they had not) from the Parliament which was diſſol<g ref="char:EOLhyphen"/>ved in <hi>April</hi> 1653. to do what they did in <hi>Maryland</hi> in 1652 according to Mr. <hi>Strongs</hi> relation, yet after the Diſſolution of that Parliament the Authority from it ceaſed, ſo as all proceedings in proſecution thereof afterwards was unwar<g ref="char:EOLhyphen"/>rantable, unleſs that Authority which they pretended had been given them by an Act or Ordinance of Parliament for a certain time then not expired, or confirmed by the ſuccee<g ref="char:EOLhyphen"/>ding ſupream Authority heer, which it was not.</p>
+            <p>
+               <pb n="11" facs="tcp:168315:6"/>And although Mr. <hi>Strong</hi> ſhelter moſt of the bloudy a<g ref="char:EOLhyphen"/>ctions done by thoſe who imploy him hither, under pre<g ref="char:EOLhyphen"/>tence that the Governement, the Counſellors and Officers in <hi>Maryland</hi> were Popiſh, and therefore there muſt needs be ſome deſigne to extirpate thoſe of another Judgement, yet he doth not (becauſe indeed he cannot) make appeare any diſturbance given by the Lord <hi>Baltemores</hi> Government, to any perſon there for matter of Religion, but contrari<g ref="char:EOLhyphen"/>wiſe it is well known that no Nation affords better Lawes to prevent any difference ariſing upon that Accompt, nor more freedome of Conſcience then that Government doth, as the moſt conſiderable Proteſtants in that Province have atteſted by an Inſtrument under their hands, unto which the ſayd Mr. <hi>Durand</hi> (atteſtor of the aforeſayd Pamphlet) hath alſo ſubſcribed his name, wherein they doe alſo ac<g ref="char:EOLhyphen"/>knowledge that the ſayd freedome is provided for not only by the ſayd Lawes there, with his Lordſhips aſſent unto them, but by ſeverall other ſtrict Injunctions and Declara<g ref="char:EOLhyphen"/>tions of his Lordſhips for that purpoſe.</p>
+            <p>There are aſwell affected Councellors and Officers to his Highneſſe and this Government imployed and intru<g ref="char:EOLhyphen"/>ſted by the Lord <hi>Baltemore</hi> in <hi>Maryland</hi> as any that oppoſe his Lordſhip there. And his Highneſſe was by Capt. <hi>Stone</hi> cauſed to be publikely and in a ſolemn maner proclaymed there as Soveraign Lord of that place.</p>
+            <p>As for the late unhappy conteſts there which (as Mr. <hi>Strong</hi> ſaith) were deſired by thoſe people above mentio<g ref="char:EOLhyphen"/>ned to be compoſed in an amicable way, how doth that a<g ref="char:EOLhyphen"/>gree with their turning Captaine <hi>Stone</hi> out of his Governe<g ref="char:EOLhyphen"/>ment in July 1654. by force of Armes, and ferrying their
+<pb n="12" facs="tcp:168315:7"/>
+men ouer the River towards Capt. <hi>Stone</hi> in the laſt conflict, and the ſhooting of Ordnance from Capt. <hi>Hemans</hi> ſhip at Capt. <hi>Stone,</hi> and the blocking up of Capt. <hi>Stones</hi> Boats by a Barque with two peeces of Ordnance (as Mr. <hi>Strong</hi> confeſ<g ref="char:EOLhyphen"/>ſeth they did before any hoſtile attempt made by Captain <hi>Stone</hi> upon them) which forced Capt. <hi>Stone</hi> to engage with them in his own defence. As to Capt. <hi>Stones</hi> taking away the Records and Arms from thoſe of <hi>Patuxent,</hi> if he did ſo, it was but what every diſcreet man ought to have done in the like caſe, they having been Actors in diſplacing him as formerly; and leſt in his abſence they ſhould attempt upon the Colony behind him; but Mr. <hi>Strong</hi> I ſuppoſe is the more impudent in alleadging untruths, and indeavouring to ſmother under them the barbarous and bloudy actions of thoſe people, becauſe he knows that they have taken order to hinder what they can, all perſons &amp; Letters which may come from thence hither, and have impoſed Oaths upon all thoſe of concernment whom they had in their cuſtody, that they neither ſhould endevour to com over into <hi>England,</hi> nor write any Letters or Petitions into <hi>England,</hi> to manifeſt to his Highneſs the truth of their proceedings in <hi>Maryland,</hi> which will reflect upon Mr. <hi>Strong</hi> as much as any one elſe; nevertheleſs providence, notwithſtanding all their diligence to the contrary, hath brought ſome Letters and Perſons lately over from thence, which much contradict Mr. <hi>Strongs</hi> Relation of the laſt conteſts there, <hi>viz.</hi> a Letter from Mr. <hi>Luke Barber</hi> to his Highneſs the Lord Protector, which the ſayd Mr. <hi>Barber</hi> wrote when he thought he ſhould not have been able to have got away from thence, the people above mentioned having detained him aſwell as others, but af<g ref="char:EOLhyphen"/>terwards
+<pb n="13" facs="tcp:168315:7"/>
+finding means to come hither himſelf in the ſame ſhip wherein hee intended to have ſent that Letter, hee thought fit in ſtead therof to declare by word of mouth to his Highneſs what was therein contayned, a Copy of which Letter ſubſcribed by the ſaid Mr. <hi>Barber</hi> is heerunto annex<g ref="char:EOLhyphen"/>ed, and he will affirm the contents therof upon Oath to be true. Another is a Letter from Captain <hi>Stones</hi> Wife (hee being a Priſoner, and not ſuffered to write himſelfe) to my Lord <hi>Baltemore,</hi> a Copy whereof is alſo heereunto anexed: by both which it appears cleerly that Mr. <hi>Strong</hi> hath o<g ref="char:EOLhyphen"/>mitted to mention the putting to death of fowr of Captain <hi>Stones</hi> party by the people above mentioned, in cold bloud, ſeverall dayes after the fight, and hath very falſly related Capt. <hi>Stones</hi> and the Lord <hi>Baltemores</hi> other Officers procee<g ref="char:EOLhyphen"/>dings in that laſt conteſt aſwell in relation to his Highneſs, as to thoſe people above mentioned; wherfore for the pre<g ref="char:EOLhyphen"/>ſent I ſhall refer the Reader to the ſaid Letters for ſatisfa<g ref="char:EOLhyphen"/>ction therin, till further proofe bee made thereof in ſuch a way as his Highneſs ſhall pleaſe to direct; whereupon my Lord <hi>Baltemore</hi> doubts not but his Highneſs will be pleaſed to do him and his Officers in <hi>Maryland</hi> right, and to call thoſe to a ſtrict accompt who were actors in the horrid murthers aforeſaid: for certainly that pretence of theirs of acting what they did (as Mr. <hi>Strong</hi> ſayes) in his Highneſs name, will not excuſe them; no man I conceive doubting but that whoſoever ſhall preſume to put any man to death in his Highneſs name, without any lawfull Authority from him, doth put a great diſhonour upon his Highneſſe, and not mitigate but aggravate the crime of murther in ſo do<g ref="char:EOLhyphen"/>ing.</p>
+            <p>
+               <pb n="14" facs="tcp:168315:8"/>And laſtly, though it be a good thing to ſing prayſes and give thankes to God as Mr. <hi>Strong</hi> doth at the end of his Pamphlet, ſo tis a good thing to know God is not mocked, but will render unto every man according to his actions, and vindicate the innocent.</p>
+         </div>
+         <div type="letter">
+            <pb n="15" facs="tcp:168315:8"/>
+            <head>The Coppy of a Letter intended for his Highneſse.</head>
+            <opener>
+               <salute>May it pleaſe your Highneſſe:</salute>
+            </opener>
+            <p>HAving formerly had the honour to relate to your Highnes not only in your Army, but alſo as a domeſtick ſervant, I humbly thought it my duty to give your Highneſs a true relation of the late diſaſter of this Countrey, which although it bee not a place any way conſiderable or worth your Highneſs trouble, yet when I conſider the great care and pains your Highneſs hath for<g ref="char:EOLhyphen"/>merly taken both below your ſelfe, and almoſt incredible to thoſe that have not been eye-witneſſes of them, for the true ſetling of Go<g ref="char:EOLhyphen"/>vernment, and avoyding the needleſs ſhedding of bloud, it gives encouragement to my pen, and aſsures me that the ſcore upon which I write, will obtain a pardon of your Highneſs for my preſumption, it being humbly and in the name of that great God (whom I know had not your Highneſs feared would never have ſo palpably helpt your Highneſs in your greateſt neceſſity, and fought your Battels) to beg a boon which will I doubt not, abſolutely end the needleſs ſhed<g ref="char:EOLhyphen"/>ding of bloud in this part of the World, in regard now both parties pretend to fight for your Highneſs: My Lord, my humble Petition to your Highneſs is, that your Highneſs would be pleaſed graciouſly to condeſcend ſo low as to ſettle the Country, ſo as wee may heere un<g ref="char:EOLhyphen"/>derſtand the abſolute pleaſure and determinate will of your Highnes
+<pb n="16" facs="tcp:168315:9"/>
+therein the diſobeyers of which cannot after your Highneſſe known pleaſure but in a moment periſh, and the reſt live ſecure and hap<g ref="char:EOLhyphen"/>pie. My Lord I am an abſolute ſtranger heere as yet having not beene a month in the Countrie, in which time this unfortunate action fell out, ſo much the ſadder, in regard of the common enemie the Indian who ever takes advantage by our inteſtine troubles be<g ref="char:EOLhyphen"/>ing both cruel and potent, &amp; therfore I hope will be a motive to fur<g ref="char:EOLhyphen"/>ther the charitable condeſcending of your Highneſſe for ſetling the Country. My Lord having had a very tedious paſſage being neceſ<g ref="char:EOLhyphen"/>ſitated to ſtay above two months in Bermudas &amp; above one month in Virginia, ſo that I was above halfe a yeare from the time that I came out of England to my arivall in Maryland, at which arival I found the Country in a great diſturbance, the Governour <hi>Captain Stone</hi> being ready to march with his Army (which heere is conſi<g ref="char:EOLhyphen"/>derable if it conſiſt of <hi>200</hi> men) againſt a partie of men at a place called <hi>Anne-Arundel</hi> who the yeer before (pretending a power from your Highneſſe as alſo that your Highneſſe had taken the Lord <hi>Baltemores</hi> Country from him) bred a great diſturbance in the Countrey, and withall tooke away the Governours Commiſſion from him, which Governour being ſince informed by a Gentleman by name Mr. <hi>Elkonhead</hi> (one that came out of England <hi>2</hi> or <hi>3</hi> Months after me) that the Lord <hi>Baltemore</hi> kept his Patent, and that your Highneſſe had neither taken the Lord <hi>Baltemores</hi> Patent from him nor his Land, hee thought hee might act by the contents of his former Commiſſion from the Lord <hi>Baltemore</hi> and accordingly went up to reduce thoſe people to the Lord <hi>Baltemores</hi> Governe<g ref="char:EOLhyphen"/>ment, but ſtill under your Highneſs command, as formerly under the Kings, having heer in the Country before I came firſt ſolemnly proclaymed your Highneſs, as alſo in all Proclamations and publick Edicts ending with <hi>God preſerve the Lord Protector, and the Lord Proprietary.</hi> Now going up to reduce theſe people, if poſſible
+<pb n="17" facs="tcp:168315:9"/>
+by fair meanes, a Declaration to which purpoſe the Governour deſi<g ref="char:EOLunhyphen"/>ring me to bear him company the march, I got leave to carry to them, in the end of which the Governour did proteſt, as in the pre<g ref="char:EOLhyphen"/>ſence of Almighty God, that he came not in a hoſtile way to do them any hurt, but ſought all meanes poſſible to reclaime them by fair means; and to my knowledge at the ſending out of Parties (as oc<g ref="char:EOLunhyphen"/>caſion ſerved) he gave ſtrict command, that if they met any of the <hi>Anne-Arundell</hi> men they ſhould not fire the firſt Gun, nor upon paine of death plunder any: theſe were his actings to my knowledge upon the march; but comming neerer to them, there was a Ship a Merchant man called the <hi>Golden Lion,</hi> one <hi>Hemans</hi> Com<g ref="char:EOLhyphen"/>mander, and as appeares hired by them, having ſince received his reward of them, who ſeeing the Governour land his men under the command of his ſhip, ſhot at them as they landed over night, and the next morning continuing his courſe (as I am credibly inform<g ref="char:EOLhyphen"/>ed) kild one of the Governours men, and ſo began the war which af<g ref="char:EOLhyphen"/>ter fell out, for the <hi>Anne-Arundell</hi> men comming ſuddenly upon them on the one ſide, and the Golden Lyon being on the other ſide, they being in a neck of Land invirond round with water except one little place by which the <hi>Anne-Arundel</hi> men came in upon them, where after a skirmiſh the Governour upon quarter given him and all his company in the field, yielded to be taken Priſoners, but two or three dayes after the Victors condemnd ten to death, and executed fowre, and had executed all had not the inceſſant Pe<g ref="char:EOLhyphen"/>titioning and begging of ſome good women ſav'd ſome, and the ſouldiers others; the Governour himſelfe being condemn'd by them and ſince begd by the Souldiers, ſome being ſav'd juſt as they were leading out to execution, and ſince fall a ſequeſtring their Eſtates, and taking away what they have as if they were meere Malignants, and had fought directly againſt your Highneſſe, in which I cannot
+<pb n="18" facs="tcp:168315:10"/>
+but speake my conſcience, knowing that at their firſt ſetting out the generall cry was that they went to reduce the Country and bring it under the obedience of your Highneſſe and the Lord Proprietary, as alſo the Governour who proteſted to mee before he went out, that had he not been very credibly informed that your Highneſſe had not ta<g ref="char:EOLhyphen"/>ken away the Lord <hi>Baltemores</hi> Patent, nor his Land, as the <hi>Anne-Arundel</hi> men pretended, he would not ſtirre in the buſineſſe. My Lord, the reaſon why I take upon mee to give your Highneſſe an ac<g ref="char:EOLhyphen"/>count of this action is nothing but out of my duty to your Highneſſe to give a true and impartiall account of the proceedings heere, in re<g ref="char:EOLhyphen"/>gard they ſtill keepe the Governour and moſt of the Councell Priſo<g ref="char:EOLhyphen"/>ners, as alſo all the chiefe Officers till all the ſhipping is already gone out of the Country except one, and till that is gone I heare for certain none of them ſhall be releaſt, by which meanes they are not onely de<g ref="char:EOLhyphen"/>bard from comming for England (as ſome deſired to anſwer for what they had done before your Highneſſe, and were denied it) but are likewiſe hindred from writing their grievances, as not being ſuf<g ref="char:EOLhyphen"/>fered to write to their own Wives, but their Letters are broke open, ſo that I cannot but thinke my ſelfe bound in conſcience to declare the truth, as alſo to remaine ſo long as I poſſeſſe a being in this world,</p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>Your Highneſſe moſt obedient and ever Loyall Subject <hi>L. Barber.</hi>
+               </signed>
+               <dateline>Maryland <date>this 13. of Aprill, 1655.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="19" facs="tcp:168315:10"/>
+            <head>For the Right Honourable the Lord <hi>BALTEMORE,</hi> theſe preſent.</head>
+            <opener>
+               <salute>Right Honourable:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am ſorry at preſent for to let your Honour underſtand of our ſad condition, in your Province. So it is, that my Husband, with the reſt of your Councell, went about a month agone with a party of men up to <hi>Anne-Arundell</hi> County, to bring thoſe fa<g ref="char:EOLhyphen"/>ctious people to obedience under your Government. My Husband ſent Dr. <hi>Barber</hi> with one Mr. <hi>Courſey</hi> with a Meſ<g ref="char:EOLhyphen"/>ſage to them, but they never returned againe before the fight began. Alſo he ſent one Mr. <hi>Packer</hi> the day after, with a Meſſage, and he likewiſe never returned, as I heard: but ſo it is, that upon Sunday the 25. of March, they did in<g ref="char:EOLhyphen"/>gage with the people of <hi>Anne-Arundell,</hi> and loſt the field, and not above five of our men eſcaped; which I did con<g ref="char:EOLhyphen"/>ceive ranne away before the fight was ended; the reſt all taken, ſome killed and wounded; my Husband hath re<g ref="char:EOLhyphen"/>ceived a wound in his ſhoulder, but I heare it is upon the
+<pb n="20" facs="tcp:168315:11"/>
+mending. My Husband, I am confident, did not thinke that they would have engaged, but it did proove too true to all our great damages; They, as I heare, being better provided then my Husband did expect; for they hired the Captain of the <hi>G<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>len Lion,</hi> a great ſhip of burden, the Captains name is <hi>Roger Hemans,</hi> a yong man, and his Bro<g ref="char:EOLhyphen"/>ther, who have beene great ſticklers in the buſineſſe as I hear, Captaine <hi>H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>man</hi> was one of their Councell of War, and by his conſent would have had all the Priſoners han<g ref="char:EOLhyphen"/>ged; but after Quarter given, they tried all your Coun<g ref="char:EOLhyphen"/>cellors by a Councell of Warre, and Sentence was paſſed upon my Husband to be ſhot to death, but was after ſaved by the Enemies owne Souldiers, and ſo the reſt of the Councellors were ſaved by the Petitions of the Women, with ſome other friends which they found there; onely Maſter <hi>William Eltonhead</hi> was ſhot to death, whoſe death I much lament, being ſhot in cold bloud; and alſo Lievete<g ref="char:EOLhyphen"/>nant <hi>William Lewis,</hi> with one Mr. <hi>Leggat,</hi> and a Germane, which did live with Mr. <hi>Eltonhead,</hi> which by all Relations that ever I did heare of, the like barbarous act was never done amongſt Chriſtians. They have Sequeſtred my Huſ<g ref="char:EOLhyphen"/>bands Eſtate, only they ſay they will allow a maintenance for me and my Children, which I doe beleeve will bee but ſmall. They keep my Husband, with the reſt of the Coun<g ref="char:EOLhyphen"/>cell, and all other Officers, ſtill Priſoners: I am very ſud<g ref="char:EOLhyphen"/>denly, God willing, bound up to ſee my Husband, they will not ſo much as ſuffer him to write a Letter unto mee, but they will have the peruſall of what hee writes. Captaine <hi>Tylman</hi> and his Mate Maſter <hi>Cook</hi> are very honeſt men, and doe ſtand up much for your Honour; they will informe
+<pb n="21" facs="tcp:168315:11"/>
+you of more paſſages then I can remember at the preſent; and I hope my Brother will be downe before Captain <hi>Tyl<g ref="char:EOLhyphen"/>man</hi> goes away, and will write to you more at large; for he is bound up this day for to ſee his Brother, if they doe not detain him there as well as the reſt; the occaſion I con<g ref="char:EOLhyphen"/>ceive of their detainment there is, becauſe they ſhould not goe home, to informe your Honour of the truth of the bu<g ref="char:EOLhyphen"/>ſineſſe before they make their owne tale in England, which let them doe their worſt, which I do not queſtion but you will vindicate my Husbands honour which hath ventured Life and Eſtate to keep your due heere, which by force he hath loſt. And they give out words, that they have won the Country by the ſword, and by it they will keepe the ſame, let my Lord Protector ſend in what Writing hee pleaſeth. The Gunners Mate of <hi>Hemans,</hi> ſince his comming down from <hi>Anne-Arundell</hi> to <hi>Patuxent,</hi> hath boaſted that he ſhot the firſt man that was ſhot of our Party. All this I write is very true, which I thought good to informe your Lordſhip, becauſe they will not ſuffer my Husband for to write himſelfe: I hope your Honour will be pleaſed for to looke upon my Sonne, and for to wiſh him for to be of good comfort, and not for to take our afflictions to heart. And nothing elſe at preſent, I reſt</p>
+            <closer>
+               <signed>Your Honours moſt humble Servant, <hi>Varlinda Stone.</hi>
+               </signed>
+               <pb n="22" facs="tcp:168315:12"/>
+            </closer>
+            <postscript>
+               <head>Poſt-ſcript.</head>
+               <p>I hope your Honour will favour me ſo much, that if my Sonne wants twenty or thirty pounds you will let him have it, and it ſhall be payd your Honour againe.</p>
+               <p>
+                  <hi>Hemans</hi> the Maſter of the <hi>Golden Lion</hi> is a very Knave, and that will be made plainly for to appeare to your Lord<g ref="char:EOLhyphen"/>ſhip, for he hath abuſed my Husband moſt groſly.</p>
+            </postscript>
+         </div>
+         <div type="text">
+            <pb n="23" facs="tcp:168315:12"/>
+            <head>A true Copy of the Oath of <hi>Fidelity</hi> to the Lord Proprietary of the Province of <hi>MARYLAND.</hi>
+            </head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="oath">
+                        <p>
+                           <hi>
+                              <seg rend="decorInit">I</seg> A. B.</hi> Doe ſweare that <hi>I</hi> will be true and faithfull (ſo long as <hi>I</hi> ſhall be a member of this Province) to the Right Hon. <hi>CAECILIUS,</hi> Lord Ba<g ref="char:EOLhyphen"/>ron of <hi>Baltemore,</hi> Lord and Propri<g ref="char:EOLhyphen"/>etary of this Province of <hi>Maryland,</hi> and the Iſlands therunto belonging, &amp; to his Heyres Lords and Proprietaries of the ſame, and to his Lievetenant or Chiefe Governour heer for the time being: And will not at any time by words or actions in publique or in private, wittingly or willingly, to the beſt of my underſtanding, any way derogate from, but will at all times, as occaſion ſhall require to the utmoſt of my power, defend and main<g ref="char:EOLhyphen"/>tain all ſuch his ſayd Lordſhips and his Heyres juſt and lawfull Right, Title, Intereſt, Priviledges, Iuriſdictions,
+<pb n="24" facs="tcp:168315:13"/>
+Prerogative, Propriety and Dominion, over and in the ſayd Province and Iſlands thereunto belonging, and o<g ref="char:EOLhyphen"/>ver the people who are or ſhall be therein for the time be<g ref="char:EOLhyphen"/>ing, as are granted to his ſayd Lordſhip and his Heyres by the late King of <hi>England</hi> in his ſayd Lordſhips Patent of the ſayd Province under the Great Seale of <hi>England,</hi> not any wiſe underſtood to infringe or prejudice Liberty of Conſcience in point of Religion; And <hi>I</hi> doe alſo ſweare that <hi>I</hi> will with all expedition diſcover to his Lordſhip or to his Lievetenant or other Chiefe Governour of the ſayd Province for the time being and alſo uſe my beſt en<g ref="char:EOLhyphen"/>devour to prevent any Plot, Conſpiracy, or Combination, which <hi>I</hi> ſhall know, or have juſt cauſe to ſuſpect, is or ſhall be intended againſt the perſon of his ſayd Lordſhip, or which ſhall tend any way to the diſinheriſon or depri<g ref="char:EOLhyphen"/>vation of his ſayd Lordſhip or his Heyres their Right, Title, Juriſdiction, and Dominion aforeſayd, or any part thereof; And I doe ſwear that I will not either by myſelf or by any other perſon or perſons, directly or indirectly take, accept, receive, purchaſe or poſſeſse any Lands, Te<g ref="char:EOLhyphen"/>nements, or Hereditaments within the ſayd Province of <hi>Maryland,</hi> or the Iſlands thereunto belonging from any Indian or Indians to any other uſe or uſes but to the uſe of his ſaid Lordſhip, and his Heires Lords and Propri<g ref="char:EOLhyphen"/>etaries
+<pb n="25" facs="tcp:168315:13"/>
+of this Province, or knowingly from any other perſon or perſons not deriving a legall Title thereunto, by, from, or under ſome grant from his ſaid Lordſhip or his Heires Lords and Proprietaries of this Province legally paſſed or to be paſsed under his or their great Seale of the ſaid Province for the time being.</p>
+                        <closer>So help me God &amp;c.</closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>THis Oath was appointed by my Lord to be taken by e<g ref="char:EOLhyphen"/>very one who had any Land granted to him in <hi>Ma<g ref="char:EOLhyphen"/>ryland</hi> from his Lordſhip before any Patent thereof ſhould paſſe the Seale to him; and it was alſo appointed to be ta<g ref="char:EOLhyphen"/>ken by a law made in <hi>Maryland</hi> in <hi>An.</hi> 1649. with the con<g ref="char:EOLhyphen"/>ſent of the Proteſta<g ref="char:cmbAbbrStroke">̄</g>ts as wel as the Roman Catholiks there, by every inhabitant above the age of ſixteene yeeres, upon paine of Baniſhment in caſe of refuſal, and of fine in caſe of return and a ſecond refuſall; but it was never yet impoſed upon any, nor any ever yet baniſhed or fined for refuſal of it, onely they could have no land granted them from his Lordſhip, unleſſe they tooke it; nor was there any other Oath appointed to bee taken upon any penalty whatſoever. But there was another Oath appointed for the Governour and Councell onely in <hi>Maryland</hi> to take, which have theſe clauſes among others in them <hi>(viz.)</hi> That they ſhall not accept or execute any Place, Office, or Imployment in <hi>Mary<g ref="char:EOLhyphen"/>land,</hi>
+               <pb n="26" facs="tcp:168315:14"/>
+relating to the Government thereof from any Perſon or Authority, but from the Lord <hi>Baltemore</hi> or his Heires: and another Clauſe <hi>(viz.)</hi> that they ſhall not directly or indirectly, trouble, moleſt, or diſcountenance, any perſon whatſoever in the ſaid Province, profeſſing to believe in JESUS CHRIST, and in particular no Roman Ca<g ref="char:EOLhyphen"/>tholick, for or in reſpect of his or her Religion, nor in his or her free exerciſe thereof within the ſaid Province. But this Oath was never impoſed upon any body, nor any penal<g ref="char:EOLhyphen"/>ty appointed for the refuſall thereof; for it was free for any man, if hee did not like the Oath not to accept of the place of Governour, or one of the Councel there; &amp; this laſt men<g ref="char:EOLhyphen"/>tioned Oath of the Governour and Councel was appointed in the life time of the late King. The Lord <hi>Baltemore</hi> con<g ref="char:EOLhyphen"/>ceiving it lawfull and juſtifiable by his Patent to require ſuch an Oath from ſuch as hee ſhould imploy in Offices of ſo great truſt in ſo remote a place; for although by his Pa<g ref="char:EOLhyphen"/>tent the ſovereign Dominion of that Province bee reſerved to the late King, his Heirs, and Succeſſors, yet the immedi<g ref="char:EOLhyphen"/>ate and ſubordinate authority of the Government therof is granted to his Lorſhip &amp; his Heyres, ſo as no man ought to act therein but by authority derived from him. And hee appointed this Oath to be taken by the aforeſayd Officers, when he made Capt. <hi>Stone</hi> Governour, and Mr. <hi>Tho. Hatton</hi> Secretary, and others of his Councell there who being of different Judgement in Religion from himſelfe, his Lord<g ref="char:EOLhyphen"/>ſhip thought it but reaſonable and fit that as he did oblige them by Oath not to diſturbe any there who profeſſed to beleeve in Jeſus Chriſt, ſo to expreſſe the Roman Catho<g ref="char:EOLhyphen"/>lickes in particular, who were of his own judgement in matter of Religion.</p>
+         </div>
+         <div type="law">
+            <pb n="27" facs="tcp:168315:14"/>
+            <head>A true Copy of a Law made in <hi>Maryland,</hi> Entituled, <hi>An Act concerning Religion.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as in a well Governed and Chriſtian Common-wealth, matters concerning Religion and the Honour of God ought in the firſt place to bee taken into ſerious conſideration and indevoured to be ſetled. Bee it there<g ref="char:EOLhyphen"/>fore Ordayned and Enacted by the Right Honourable CAECILIUS Lord Baron of <hi>Baltemore,</hi>
+               <note n="*" place="margin">This Ti<g ref="char:EOLhyphen"/>tle is gi<g ref="char:EOLhyphen"/>ven his Lordſhip in his Pa<g ref="char:EOLhyphen"/>tent of Maryland.</note> abſolute Lord and Proprietary of this Province, with the Advice and Conſent of the Upper and Lower Houſe of this Generall Aſſembly, that whatſo<g ref="char:EOLhyphen"/>ever Perſon or Perſons within this Province and the Iſlands thereunto belonging, ſhall from henceforth Blaſpheame GOD, that is curſe him, or ſhall deny our Saviour JE<g ref="char:EOLhyphen"/>SUS CHRIST to bee the Son of God, or ſhall deny the Holy Trinity, the Father, Son, and Holy Ghoſt, or the Godhead of any of the ſayd Three Perſons of the Trinity, or the Unity of the Godhead, or ſhall uſe or utter any re<g ref="char:EOLhyphen"/>proachfull ſpeeches, words, or language, concerning the Holy Trinity, or any of the ſayd three Perſons thereof, ſhal
+<pb n="28" facs="tcp:168315:15"/>
+be puniſhed with death, and confiſcation or forfeiture of all his or her Land and Goods to the Lord Proprietary and his Heires. And bee it alſo Enacted by the Authority and with the advice and aſſent aforeſaid, That whatſoever Per<g ref="char:EOLhyphen"/>ſon or Perſons ſhall from henceforth uſe or utter any re<g ref="char:EOLhyphen"/>proachfull words or ſpeeches concerning the Bleſſed Virgin <hi>MARY,</hi> the Mother of our Saviour, or the holy Apoſtles or Evangeliſts, or any of them, ſhall in ſuch caſe for the firſt Offence forfeit to the ſayd Lord Proprietary and his heires Lords and Proprietaries of this Province, the ſum of 5 l. ſter<g ref="char:EOLhyphen"/>ling, or the value thereof, to bee levied on the goods and chattells of every ſuch perſon ſo offending; but in caſe ſuch offender or offenders ſhall not then have goods and chattels ſufficient for the ſatisfying of ſuch forfeiture, or that the ſame be not otherwiſe ſpeedily ſatisfied, that then ſuch of<g ref="char:EOLhyphen"/>fender or offenders ſhall be publikely whipt, and bee impri<g ref="char:EOLhyphen"/>ſoned during the pleaſure of the Lord Proprietary, or the Lievetenant or Chiefe Governour of this Province for the time being; and that every ſuch offender and offenders for every ſecond offence ſhall forfeit 10 l. ſterling, or the value therof to be levied as aforeſayd, or in caſe ſuch offender or offenders ſhall not then have goods and chattells within this Province ſufficient for that purpoſe, then to be publike<g ref="char:EOLhyphen"/>ly and ſeverely whipt and impriſoned as before is expreſſed. And that every perſon or perſons before mentioned, offen<g ref="char:EOLhyphen"/>ding heerin the third time, ſhall for ſuch third offence, for<g ref="char:EOLhyphen"/>feit all his lands and goods and be for ever baniſht and ex<g ref="char:EOLhyphen"/>pelled out of this Province. And be i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> alſo further Enacted by the ſame authority, advice, and aſſent, that whatſoever perſon or perſons ſhall from henceforth upon any occaſion of offence or otherwiſe in a reproachfull maner or way,
+<pb n="29" facs="tcp:168315:15"/>
+declare, call or denominate, any perſon or perſons what<g ref="char:EOLhyphen"/>ſoever, inhabiting, reſiding, trafficking, trading, or com<g ref="char:EOLhyphen"/>mercing, within this Province, or within any the Ports, Harbors, Creeks or Havens to the ſame belonging, an He<g ref="char:EOLhyphen"/>retick, Schiſmatick, Idolater, Puritan, Presbyterian, Inde<g ref="char:EOLhyphen"/>pendent, Popiſh Prieſt, Jeſuit, Jeſuited Papiſt, Lutheran, Calviniſt, Anabaptiſt, Browniſt, Antinomian, Barrowiſt, Roundhead, Separatiſt, or other name or terme in a re<g ref="char:EOLhyphen"/>proachfull maner relating to matter of Religion, ſhall for every ſuch offence forfet and loſe the ſum of 10 s. ſterling or the value therof to be levied on the goods and Chattels of every ſuch offender and offenders, the one halfe thereof to be forfeted and payd unto the perſon and perſons of whom ſuch reproachfull words are or ſhall bee ſpoken or uttered, and the other halfe thereof to the Lord Proprietary and his Heirs, Lords and Proprietaries of this Province; But if ſuch perſon or perſons who ſhall at any time utter or ſpeak any ſuch reproachfull words or language, ſhall not have goods or chattells ſufficient and overt within this Province to bee taken to ſatisfie the penalty aforeſayd, or that the ſame bee not otherwiſe ſpeedily ſatisfied, that then the perſon and perſons ſo offending ſhal be publikely whipt, and ſhall ſuffer impriſonment without Bayle or Mainpriſe un<g ref="char:EOLhyphen"/>till he, ſhe, or they, reſpectively ſhall ſatisfie the party of<g ref="char:EOLhyphen"/>fended or grieved by ſuch reproachfull language, by asking him or her reſpectively forgivenes publikely for ſuch his offence before the Magiſtrate or chiefe Officer or Officers of the Towne or Place where ſuch offence ſhall bee given. And be it further likewiſe Enacted by the authority and conſent aforeſayd, that every perſon and perſons within this Province, that ſhall at any time heereafter prophane the Sabaoth or Lords day called Sunday, by frequent ſwea<g ref="char:EOLhyphen"/>ring,
+<pb n="30" facs="tcp:168315:16"/>
+drunkenneſſe, or by any uncivill or diſorderly Recre<g ref="char:EOLhyphen"/>ation, or by working on that day, when abſolute neceſſity doth not require, ſhall for every ſuch firſt offence forfet 2 s. 6 d. ſterling or the value therof; and for the ſecond offence 5 s. ſterling or the value thereof; and for the third offence and for everytime he ſhall offend in like maner afterwards 10 s. ſterling or the value therof; and in caſe ſuch offender or offenders ſhall not have ſufficient goods or chattells within this Province to ſatisfie any of the aforeſayd penal<g ref="char:EOLhyphen"/>ties reſpectively heereby impoſed for prophaning the Sa<g ref="char:EOLhyphen"/>baoth or Lords day called Sunday as aforeſaid, then in every ſuch Caſe the party ſo offending ſhall for the firſt and ſecond offence in that kind be impriſoned till hee or ſhe ſhall publikely in open Court before the chief Com<g ref="char:EOLhyphen"/>mander, Judge, or Magiſtrate of that County, Towne, or Precinct wherein ſuch offence ſhall be committed, acknow<g ref="char:EOLhyphen"/>ledge the ſcandall and offence hee hath in that reſpect gi<g ref="char:EOLhyphen"/>ven, againſt God, and the good and civill Government of this Province: And for the third offence and for every time after ſhall alſo be publikely whipt. And wheras the infor<g ref="char:EOLhyphen"/>cing of the Conſcience in matter of Religion hath frequent<g ref="char:EOLhyphen"/>ly fallen out to bee of dangerous Conſequence in thoſe Commonwealths where it hath beene practiſed, and for the more quiet and peaceable Government of this Pro<g ref="char:EOLhyphen"/>vince, and the better to preſerve mutuall love and unity a<g ref="char:EOLhyphen"/>mongſt the Inhabitants here, Bee it therefore alſo by the Lord Proprietary with the advice and aſſent of this Aſſem<g ref="char:EOLhyphen"/>bly, Ordained and Enacted, except as in this preſent Act is before declared and ſet forth, that no perſon or perſons whatſoever within this Province or the Iſlands, Ports, Har<g ref="char:EOLhyphen"/>bors, Creeks, or Havens thereunto belonging, profeſſing to beleeve in Jeſus Chriſt ſhall from henceforth be any waies
+<pb n="31" facs="tcp:168315:16"/>
+troubled, moleſted, or diſcountenanced, for or in reſpect of his or her Religion, nor in the free Exerciſe thereof within this Province or the Iſlands thereunto belonging, nor any way compelled to the beleefe or exerciſe of any other Reli<g ref="char:EOLhyphen"/>gion againſt his or her conſent, ſo as they be not unfaithful to the Lord Proprietary, or moleſt or conſpire againſt the civill Government, eſtabliſhed or to be eſtabliſhed in this Province under him and his Heyres. And that all and e<g ref="char:EOLhyphen"/>very perſon and perſons that ſhall preſume contrary to this Act and the true intent and meaning thereof, directly or <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<g ref="char:EOLhyphen"/>directly, eyther in perſon or eſtate, wilfully to wrong, di<g ref="char:EOLhyphen"/>ſturbe, or trouble, or moleſt any perſon or perſons whatſo<g ref="char:EOLhyphen"/>ever within this Province, profeſſing to beleeve in Jeſus Chriſt, for or in reſpect of his or her Religion, or the free Exerciſe therof within this Province, otherwiſe then is pro<g ref="char:EOLhyphen"/>vided for in this Act, That ſuch perſon or perſons ſo offen<g ref="char:EOLhyphen"/>ding ſhall be compelled to pay treble damages to the party ſo wronged or moleſted, and for every ſuch offence ſhall alſo forfet 20 s. ſterling in Money or the value thereof, half thereof for the uſe of the Lord Proprietary and his Heires Lords and Proprietaries of this Province, and the other halfe thereof for the uſe of the partie ſo wronged or mo<g ref="char:EOLhyphen"/>leſted as aforeſayd; or if the party ſo offending as afore<g ref="char:EOLhyphen"/>ſayd, ſhall refuſe or bee unable to recompence the party ſo wronged or to ſatisfie ſuch fine or forfeiture, then ſuch of<g ref="char:EOLhyphen"/>fender ſhall be ſeverely puniſhed by publike whipping and impriſonment during the pleaſure of the Lord Proprietary or his Lievtenant or chiefe Governour of this Province for the time being, without Bayle or Mainpriſe. And be it fur<g ref="char:EOLhyphen"/>ther alſo Enacted by the authority and conſent aforeſayd, that the Sheriffe or other Officer or Officers from time to
+<pb n="32" facs="tcp:168315:17"/>
+time to be appointed and authoriſed for that purpoſe of the County, Town, or Precinct where every particular offence in this preſent Act contained, ſhall happen at any time to be committed, and whereupon there is heerby a forfeiture, fine, or penalty impoſed, ſhall from time to time diſtrain, and ſeiſe the goods and eſtate of every ſuch perſon ſo of<g ref="char:EOLhyphen"/>fending as aforeſayd againſt this preſent Act or any part therof, and ſell the ſame or any part therof, for the full ſa<g ref="char:EOLhyphen"/>tisfaction of ſuch forfeiture, fine, or penalty as aforeſayd, reſtoring to the Party ſo offending, the Remainder or o<g ref="char:EOLhyphen"/>verplus of the ſayd goods or eſtate, after ſuch ſatisfaction ſo made as aforeſayd.</p>
+            <p>This Act was paſſed by a Generall Aſſembly in <hi>Maryland</hi> in April 1649. and aſſented unto by the Lord <hi>Baltemore</hi> in 1650. and the intent of it being to prevent any diſguſts be<g ref="char:EOLhyphen"/>tween thoſe of different judgements in Religion there, it was thought neceſſary to inſert that clauſe in it concerning the Virgin <hi>Mary,</hi> of whom ſome, otherwiſe might perhaps ſpeake reproachfully, to the offence of others. And in the time of the long Parliament when the differences between the Lord <hi>Baltemore,</hi> and Colonell <hi>Samuel Matthews,</hi> as Agent for the Colony of <hi>Virginia</hi> were depending before a Com<g ref="char:EOLhyphen"/>mittee of that Parliament for the Navy, that Clauſe in the ſayd Law concerning the Virgin <hi>Mary,</hi> was at that Com<g ref="char:EOLhyphen"/>mittee objected as an exception againſt his Lordſhip; wher<g ref="char:EOLhyphen"/>upon a worthy Member of the ſayd Committee ſtood up and ſayd, that he wondered that any ſuch exception ſhould be taken againſt his Lordſhip; for (ſayes hee) doth not the Scripture ſay,<note place="margin">Lu. 1.48.</note> that all Generations ſhall call her bleſſed? and the Committee inſiſted no more on that exception.</p>
+         </div>
+         <div type="text">
+            <pb n="33" facs="tcp:168315:17"/>
+            <head>THE Declaration and Certificate of <hi>William Stone</hi> Eſquire, Lievtenant of the Province of <hi>Maryland,</hi> by Commiſſion from the Right Honourable the Lord <hi>Balte<g ref="char:EOLhyphen"/>more,</hi> Lord Proprietary thereof, and of Captaine <hi>John Price,</hi> Mr. <hi>Thomas Hatton,</hi> and Captain <hi>Robert Vaughan</hi> of his ſayd Lordſhips Counſell there, and of divers of the Burgeſſes now met in an Aſſembly there, and other Proteſtant Inhabitants of the ſayd Province, made the <hi>17.</hi> day of April, <hi>Anno Dom.</hi> one thouſand ſix hundred and fifty.</head>
+            <p>WE the ſayd Lievetenant, Councell, Burgeſſes, and other Proteſtant In<g ref="char:EOLhyphen"/>habitants above mentioned, whoſe names are heerunto ſubſcribed, doe declare and certifie to all perſons whom it may con<g ref="char:EOLhyphen"/>cerne, That according to an Act of Aſſembly heer, and ſeverall other ſtrict Injunctions and Declarations by his ſayd Lordſhip for that purpoſe made and pro<g ref="char:EOLhyphen"/>vided, we doe heere enjoy all fitting and conveni<g ref="char:EOLhyphen"/>ent freedome and liberty in the exerciſe of our Reli<g ref="char:EOLhyphen"/>gion under his ſayd Lordſhips Government &amp; Inte<g ref="char:EOLhyphen"/>reſt, And that none of us are any wayes troubled or moleſted, for or by reaſon thereof within this his Lordſhips ſayd Province.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <pb n="34" facs="tcp:168315:18"/>
+                     <item>Governour.
+<list>
+                           <item>William Stone</item>
+                        </list>
+                     </item>
+                     <item>Councell.
+<list>
+                           <item>Jo. Price</item>
+                           <item>Robert Vaughan</item>
+                           <item>Tho. Hatton</item>
+                        </list>
+                     </item>
+                     <item>Burgeſſes.
+<list>
+                           <item>James Cox<note place="margin">Note that <hi>James Cox</hi> and <hi>George Puddington</hi> were then Burgeſſes for the people at <hi>Anne-Arundell.</hi>
+                              </note>
+                           </item>
+                           <item>Tho Steerman</item>
+                           <item>John Hatche</item>
+                           <item>George Puddington</item>
+                           <item>Robert Robines</item>
+                           <item>Walter Bain</item>
+                           <item>William Brough</item>
+                           <item>Francis Poeſy</item>
+                        </list>
+                     </item>
+                     <item>
+                        <note n="*" place="margin">Note that this is the ſame man who atteſts Mr. <hi>Strongs</hi> Pamphlet before mentioned.</note>William Durand</item>
+                     <item>Anthony Rawlins</item>
+                     <item>Thomas Maydwell</item>
+                     <item>Marke Blomefield</item>
+                     <item>Thomas Buſhell</item>
+                     <item>William Hungerford</item>
+                     <item>William Stumpſon</item>
+                     <item>Thomas Dinyard</item>
+                     <item>John Grinſdith</item>
+                     <item>William Edwin</item>
+                     <item>Richard Browne</item>
+                     <item>Stanhop Roberts</item>
+                     <item>William Browne</item>
+                     <item>John Halfehead</item>
+                     <item>William Hardwich</item>
+                     <item>Elias Beech</item>
+                     <item>George Sawyer</item>
+                     <item>William Edis</item>
+                     <item>John Gage</item>
+                     <item>Robert Ward</item>
+                     <item>William Marſhall</item>
+                     <item>Richard Smith</item>
+                     <item>Arthur Turner</item>
+                     <item>William Pell</item>
+                     <item>William Warren</item>
+                     <item>Edward Williams</item>
+                     <pb n="35" facs="tcp:168315:18"/>
+                     <item>Raph Beane</item>
+                     <item>John Slingsby</item>
+                     <item>James Morphew</item>
+                     <item>Francis Martin</item>
+                     <item>John Walker</item>
+                     <item>William Hawley</item>
+                     <item>William Smoot</item>
+                     <item>John Sturman</item>
+                     <item>John Nichols</item>
+                     <item>Hugh Crage</item>
+                     <item>George Whitacre</item>
+                     <item>Daniel Clocker</item>
+                     <item>John Perin</item>
+                     <item>Patrick Forreſt</item>
+                     <item>George Beckwith</item>
+                     <item>Thomas Warr</item>
+                     <item>Walter Waterling.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
